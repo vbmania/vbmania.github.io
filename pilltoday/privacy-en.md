@@ -45,5 +45,5 @@ Local data is stored in the iOS App Group sandbox. Network traffic to diagnostic
 
 ## 7. Contact
 
-Privacy questions: [vbmania@me.com](mailto:vbmania@me.com)
+Privacy questions: [contact.aiworkerslab@gmail.com](mailto:contact.aiworkerslab@gmail.com)
 

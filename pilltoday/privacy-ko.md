@@ -45,5 +45,5 @@ PillToday는 Apple의 앱 추적 투명성 권한을 요청하지 않으며, 개
 
 ## 7. 문의
 
-개인정보 관련 문의: [vbmania@me.com](mailto:vbmania@me.com)
+개인정보 관련 문의: [contact.aiworkerslab@gmail.com](mailto:contact.aiworkerslab@gmail.com)
 

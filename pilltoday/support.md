@@ -13,7 +13,7 @@ permalink: /pilltoday/support/
 - PillToday 앱 버전
 - 문제가 발생한 순서와 화면 캡처
 
-문의: [vbmania@me.com](mailto:vbmania@me.com) 또는 [GitHub Issues](https://github.com/vbmania/PillToday_Support/issues)
+문의: [contact.aiworkerslab@gmail.com](mailto:contact.aiworkerslab@gmail.com) 또는 [GitHub Issues](https://github.com/vbmania/PillToday_Support/issues)
 
 ## 자주 묻는 질문
 
@@ -35,7 +35,7 @@ PillToday의 알람 권한이 허용되어 있는지 확인하고, 앱의 알람
 
 When reporting an issue, include your device model, OS version, PillToday version, reproduction steps, and a screenshot if available.
 
-Contact: [vbmania@me.com](mailto:vbmania@me.com) or [GitHub Issues](https://github.com/vbmania/PillToday_Support/issues)
+Contact: [contact.aiworkerslab@gmail.com](mailto:contact.aiworkerslab@gmail.com) or [GitHub Issues](https://github.com/vbmania/PillToday_Support/issues)
 
 Pill logs and alarm settings stay in the on-device App Group store. PillToday does not sync them to iCloud or a separate server.
 
