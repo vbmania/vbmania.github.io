@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "20260928.3",
+  "version": "20260928.4",
   "apps": [
-    {"id":"AIT-025","appName":"cashflowplanner","name":"내 현금 흐름","label":"내 현금 흐름 점검하기","subtitle":"다음 달엔 얼마가 남을까요?","creativeId":"cashflow_v2","icon":"https://vbmania.github.io/apps-in-toss/cross-promo/icons/cashflow.png","enabled":true},
-    {"id":"AIT-029","appName":"memory-garden-care","name":"기억정원","label":"정원 가꾸고 힐링하기","subtitle":"키운 나무가 내게 편지를 보내요","creativeId":"garden_v2","icon":"https://vbmania.github.io/apps-in-toss/cross-promo/icons/garden.png","enabled":true},
-    {"id":"AIT-027","appName":"oneulmwoge","name":"오늘그림","label":"그림 맞히고 포인트 받기","subtitle":"숨은 그림을 가장 먼저 맞혀보세요","creativeId":"picture_v2","icon":"https://vbmania.github.io/apps-in-toss/cross-promo/icons/picture.png","enabled":true},
-    {"id":"AIT-024","appName":"euntoesinario","name":"내 은퇴 계획","label":"내 은퇴 설계하기","subtitle":"나는 몇 살에 은퇴할 수 있을까요?","creativeId":"retirement_v3","icon":"https://vbmania.github.io/apps-in-toss/cross-promo/icons/retirement.png","enabled":true},
-    {"id":"AIT-030","appName":"my-art-museum","name":"내 취향 미술관","label":"내 취향 미술관 만들기","subtitle":"모네와 고흐로 내 전시를 열어요","creativeId":"museum_v2","icon":"https://vbmania.github.io/apps-in-toss/cross-promo/icons/museum.png","enabled":true},
+    {"id":"AIT-025","appName":"cashflowplanner","name":"내 현금 흐름","label":"내 현금 흐름 점검하기","subtitle":"이 돈, 지금 써도 괜찮을까요?","creativeId":"cashflow_v3","icon":"https://vbmania.github.io/apps-in-toss/cross-promo/icons/cashflow.png","enabled":true},
+    {"id":"AIT-029","appName":"memory-garden-care","name":"기억정원","label":"정원 가꾸고 힐링하기","subtitle":"나무에게 편지 받아본 적 있나요?","creativeId":"garden_v3","icon":"https://vbmania.github.io/apps-in-toss/cross-promo/icons/garden.png","enabled":true},
+    {"id":"AIT-027","appName":"oneulmwoge","name":"오늘그림","label":"그림 맞히고 포인트 받기","subtitle":"한 조각만 보고 맞힐 자신 있나요?","creativeId":"picture_v3","icon":"https://vbmania.github.io/apps-in-toss/cross-promo/icons/picture.png","enabled":true},
+    {"id":"AIT-024","appName":"euntoesinario","name":"내 은퇴 계획","label":"내 은퇴 설계하기","subtitle":"언제쯤 출근을 그만둬도 될까요?","creativeId":"retirement_v4","icon":"https://vbmania.github.io/apps-in-toss/cross-promo/icons/retirement.png","enabled":true},
+    {"id":"AIT-030","appName":"my-art-museum","name":"내 취향 미술관","label":"내 취향 미술관 만들기","subtitle":"그림 고르면 3D 미술관이 생겨요","creativeId":"museum_v3","icon":"https://vbmania.github.io/apps-in-toss/cross-promo/icons/museum.png","enabled":true},
     {"id":"AIT-031","appName":"mystery-library","name":"추리 서재","label":"추리 서재 둘러보기","enabled":false},
     {"id":"AIT-032","appName":"curiosity-lab-32","name":"호기심 실험실","label":"호기심 실험실 둘러보기","enabled":false},
     {"id":"AIT-033","appName":"apartment-remodeling","name":"아파트 리모델링","label":"아파트 리모델링 둘러보기","enabled":false}
