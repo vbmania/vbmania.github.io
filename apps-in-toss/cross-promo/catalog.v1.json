@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "20260928.1",
+  "version": "20260928.2",
   "apps": [
     {"id":"AIT-025","appName":"cashflowplanner","name":"내 현금 흐름","label":"내 현금 흐름 점검하기","subtitle":"월급부터 지출까지 한눈에 봐요","creativeId":"cashflow_v1","icon":"https://vbmania.github.io/apps-in-toss/cross-promo/icons/cashflow.png","enabled":true},
     {"id":"AIT-029","appName":"memory-garden-care","name":"기억정원","label":"정원 가꾸고 힐링하기","subtitle":"단어를 기억하고 정원을 꾸며요","creativeId":"garden_v1","icon":"https://vbmania.github.io/apps-in-toss/cross-promo/icons/garden.png","enabled":true},
     {"id":"AIT-027","appName":"oneulmwoge","name":"오늘그림","label":"그림 맞히고 포인트 받기","subtitle":"조금씩 보이는 그림을 맞혀요","creativeId":"picture_v1","icon":"https://vbmania.github.io/apps-in-toss/cross-promo/icons/picture.png","enabled":true},
-    {"id":"AIT-024","appName":"euntoesinario","name":"내 은퇴 계획","label":"내 은퇴 설계하기","subtitle":"은퇴 후 생활비를 미리 살펴봐요","creativeId":"retirement_v1","icon":"https://vbmania.github.io/apps-in-toss/cross-promo/icons/retirement.png","enabled":true},
+    {"id":"AIT-024","appName":"euntoesinario","name":"내 은퇴 계획","label":"내 은퇴 설계하기","subtitle":"은퇴 후 생활비를 살펴봐요","creativeId":"retirement_v2","icon":"https://vbmania.github.io/apps-in-toss/cross-promo/icons/retirement.png","enabled":true},
     {"id":"AIT-030","appName":"my-art-museum","name":"내 취향 미술관","label":"내 취향 미술관 만들기","subtitle":"마음에 드는 그림으로 채워요","creativeId":"museum_v1","icon":"https://vbmania.github.io/apps-in-toss/cross-promo/icons/museum.png","enabled":true},
     {"id":"AIT-031","appName":"mystery-library","name":"추리 서재","label":"추리 서재 둘러보기","enabled":false},
     {"id":"AIT-032","appName":"curiosity-lab-32","name":"호기심 실험실","label":"호기심 실험실 둘러보기","enabled":false},
