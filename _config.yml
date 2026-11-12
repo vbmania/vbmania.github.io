@@ -16,9 +16,8 @@
 title: 그냥 평범한 개발 블로그
 email: contact.aiworkerslab@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  앱 개발 기록과 직접 만든 앱의 사용 안내를 공유합니다.
+  DupCleaner의 파일·사진 정리와 오늘 약의 복용 기록 기능을 소개합니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
