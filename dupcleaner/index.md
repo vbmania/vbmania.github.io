@@ -25,6 +25,8 @@ iCloud 원본 확인에는 다운로드가 필요할 수 있습니다. 비교할
 ## 다운로드와 도움말
 
 - [App Store에서 DupCleaner 보기](https://apps.apple.com/kr/app/dupcleaner/id6755908086)
+- [자주 묻는 질문 — 한국어](https://github.com/vbmania/PillToday_Support/blob/main/dupcleaner/support_ko.md)
+- [Support — English](https://github.com/vbmania/PillToday_Support/blob/main/dupcleaner/support_en.md)
 - [개인정보 처리방침 — 한국어](https://github.com/vbmania/PillToday_Support/blob/main/dupcleaner/privacy_policy_ko.md)
 - [Privacy policy — English](https://github.com/vbmania/PillToday_Support/blob/main/dupcleaner/privacy_policy_en.md)
 - [Apple의 사진 삭제·복구 안내](https://support.apple.com/ko-kr/104967)
