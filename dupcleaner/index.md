@@ -4,7 +4,11 @@ title: DupCleaner
 permalink: /dupcleaner/
 ---
 
-## 보관할 사본을 확인하고 중복을 정리하세요
+## 사진이나 파일을 지우기 전에, 두 사본부터 비교하세요
+
+같은 파일을 두 번 내려받으면 이름 뒤에 `(1)`이 붙거나 다른 폴더에 남을 수 있습니다. 검사할 폴더를 고른 뒤 이름이 달라도 내용이 같은 파일을 찾고, 어느 쪽을 남길지 먼저 확인하세요. 사진 보관함에서는 비슷한 사진을 자동으로 지우지 않고, 원본을 비교해 정확히 중복되는 항목을 확인합니다.
+
+[App Store에서 DupCleaner 보기](https://apps.apple.com/kr/app/dupcleaner/id6755908086)
 
 DupCleaner는 iPhone과 iPad에서 선택한 폴더의 중복 파일과 사진 보관함의 중복 사진·동영상을 확인하는 앱입니다. 파일과 사진 정리는 같은 이용권으로 사용할 수 있습니다.
 
@@ -35,6 +39,8 @@ iCloud 원본 확인에는 다운로드가 필요할 수 있습니다. 비교할
 문의할 때 앱 버전, 기기 종류와 문제가 생긴 순서를 알려 주세요. 개인 파일·사진, 결제 정보나 계정 비밀번호를 첨부할 필요는 없습니다.
 
 ## About DupCleaner
+
+Downloaded the same file under two names? Scan the folders you choose, compare the matching copies, and decide which one to keep before you clean up.
 
 DupCleaner helps you review duplicate files in selected folders and exact duplicate photos and videos in your authorized photo library on iPhone and iPad. Review your choices before confirming cleanup. Checking iCloud originals may require downloads, and photo deletions can sync to other devices using iCloud Photos. File and photo cleanup use the same purchase entitlement.
 
