@@ -21,6 +21,7 @@ permalink: /pilltoday/
 
 ## 자주 하는 일은 더 짧게
 
+- 내일 일정이 달라지면 내일 알람만 앞당기거나 늦추기. 그다음 알람은 평소 시간 그대로
 - 잠금 화면 위젯에서 오늘 기록 여부 확인
 - 홈 화면 위젯과 Apple Watch에서도 복용 완료 표시
 - 달력에서 지난 기록과 최근 7일·30일 완료 기록 확인
@@ -34,6 +35,8 @@ permalink: /pilltoday/
 **Did I take it today? Check your daily record at a glance.**
 
 PillToday is a simple log for a once-a-day routine, whether that's a daily vitamin or a medication you take on a regular schedule. Tap after you take it to save the time you logged it. The Lock Screen widget shows whether you've logged today, and you can check off the day from the Home Screen widget or Apple Watch.
+
+Leaving early tomorrow? Move just tomorrow’s alarm. Your next scheduled alarm stays at its usual time.
 
 PillToday tracks one daily check-in. It isn't designed to track several medications or doses separately. Your medication logs and reminder settings stay on your device and aren't synced through iCloud.
 
