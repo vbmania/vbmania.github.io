@@ -20,7 +20,7 @@ Apple 파일 선택기에서 검사할 폴더를 고릅니다. 이름·경로와
 
 허용한 사진 보관함에서 후보를 찾고 원본을 비교해 정확한 중복을 확인합니다. 비슷하게 찍힌 사진 중 가장 잘 나온 사진을 골라 주는 기능과는 범위가 다릅니다. 후보를 찾는 단계와 원본 확인 결과를 구분해서 확인해 주세요.
 
-iCloud 원본 확인에는 다운로드가 필요할 수 있습니다. 비교할 범위와 네트워크 사용 안내를 확인한 뒤 진행할 수 있습니다.
+iCloud 원본 확인에는 다운로드가 필요할 수 있습니다. 비교할 범위와 네트워크 사용 안내를 먼저 확인하세요. 큰 동영상은 재생하면서 정리 대상에 넣거나 뺄 수 있습니다. iCloud 동영상은 내려받는 진행률이 표시되고, 중단하거나 실패한 다운로드를 다시 시도할 수 있습니다.
 
 ## 삭제 전에 확인할 점
 
@@ -42,6 +42,6 @@ iCloud 원본 확인에는 다운로드가 필요할 수 있습니다. 비교할
 
 Downloaded the same file under two names? Scan the folders you choose, compare the matching copies, and decide which one to keep before you clean up.
 
-DupCleaner helps you review duplicate files in selected folders and exact duplicate photos and videos in your authorized photo library on iPhone and iPad. Review your choices before confirming cleanup. Checking iCloud originals may require downloads, and photo deletions can sync to other devices using iCloud Photos. File and photo cleanup use the same purchase entitlement.
+DupCleaner helps you review duplicate files in selected folders and exact duplicate photos and videos in your authorized photo library on iPhone and iPad. Review your choices before confirming cleanup. Select or deselect large videos for cleanup while they play. If a video needs to download from iCloud, you can see its progress, cancel, or retry. Photo deletions can sync to other devices using iCloud Photos. File and photo cleanup use the same purchase entitlement.
 
 [View on the App Store](https://apps.apple.com/us/app/dupcleaner/id6755908086) · [Contact support](mailto:contact.aiworkerslab@gmail.com)
